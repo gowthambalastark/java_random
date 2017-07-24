@@ -37,6 +37,7 @@ class LED{
 			tt.addAll(t);
 			a+=tt.size();
 			tt.clear();
+			ttt.clear();
 			t.clear();
 			t.addAll(s.get(n.charAt(i)));
 			ttt.addAll(t);
